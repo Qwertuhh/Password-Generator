@@ -1,9 +1,10 @@
-
 # Password Generator
 
 Welcome to my project repository! This project showcases the programming concepts and techniques I have learned in my inisitial days in Javascript. The primary focus is on understanding and implementing these concepts rather than perfecting the design or creating production-ready solutions.
 
-This repository provide you to generate strong passwords
+This repository provide you to generate strong passwords.
+
+[click here to hope on site!](https://qwertuhh-password-generator.netlify.app/)
 
 ## What I had learnt
 
