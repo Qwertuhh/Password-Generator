@@ -9,7 +9,9 @@ html {
     justify-content: center;
     justify-items: center;
   }
-  
+  #l_tag{
+    border-radius: 100px;
+  }
   .btn-copy {
     float: right;
     top: 0%;
@@ -41,8 +43,7 @@ html {
   }
   
   .card {
-    scale: 1.01;
-  
+    transform:  scale(1.01);
   }
   
   .row {
